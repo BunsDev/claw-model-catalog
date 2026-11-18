@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1794990575685,
+  "generatedAt": 1795005106382,
   "models": [
     {
       "id": "abliterated-model",
@@ -38317,9 +38317,8 @@
       "source": "openRouter"
     },
     "openrouter/deepseek/deepseek-r1-0528": {
-      "cacheRead": 0.35,
-      "input": 0.5,
-      "output": 2.1500000000000004,
+      "input": 0.5710000000000001,
+      "output": 2.2859999999999996,
       "source": "openRouter"
     },
     "openrouter/deepseek/deepseek-v3.1-terminus": {
@@ -38375,9 +38374,9 @@
       "source": "openRouter"
     },
     "openrouter/deepseek/deepseek-v4.1-flash": {
-      "cacheRead": 0.018,
-      "input": 0.051,
-      "output": 0.5670000000000001,
+      "cacheRead": 0.006,
+      "input": 0.3,
+      "output": 1.2,
       "source": "openRouter"
     },
     "openrouter/deepseek/deepseek-v4.1-flash-1017": {
@@ -41166,9 +41165,9 @@
       "source": "openRouter"
     },
     "openrouter/qwen/qwen3.5-9b": {
-      "cacheRead": 0.153,
-      "input": 0.16999999999999998,
-      "output": 0.25,
+      "cacheRead": 0.13799999999999998,
+      "input": 0.154,
+      "output": 0.226,
       "source": "openRouter"
     },
     "openrouter/qwen/qwen3.5-flash-02-23": {
@@ -43784,7 +43783,7 @@
     }
   },
   "schemaVersion": 2,
-  "sourceCommit": "febe29372436da3d2218025f8cc45f152dbdde5f",
+  "sourceCommit": "9d6f4a94adf50e6f8af2485868bc0b1e3e65f720",
   "upstreamPricing": {
     "abliteration/abliterated-model": {
       "cacheRead": 0.09999999999999999,
@@ -70981,9 +70980,8 @@
       "source": "openRouter"
     },
     "openrouter/deepseek/deepseek-r1-0528": {
-      "cacheRead": 0.35,
-      "input": 0.5,
-      "output": 2.1500000000000004,
+      "input": 0.5710000000000001,
+      "output": 2.2859999999999996,
       "source": "openRouter"
     },
     "openrouter/deepseek/deepseek-v3.1-terminus": {
@@ -71039,9 +71037,9 @@
       "source": "openRouter"
     },
     "openrouter/deepseek/deepseek-v4.1-flash": {
-      "cacheRead": 0.018,
-      "input": 0.051,
-      "output": 0.5670000000000001,
+      "cacheRead": 0.006,
+      "input": 0.3,
+      "output": 1.2,
       "source": "openRouter"
     },
     "openrouter/deepseek/deepseek-v4.1-flash-1017": {
@@ -73830,9 +73828,9 @@
       "source": "openRouter"
     },
     "openrouter/qwen/qwen3.5-9b": {
-      "cacheRead": 0.153,
-      "input": 0.16999999999999998,
-      "output": 0.25,
+      "cacheRead": 0.13799999999999998,
+      "input": 0.154,
+      "output": 0.226,
       "source": "openRouter"
     },
     "openrouter/qwen/qwen3.5-flash-02-23": {
@@ -80386,6 +80384,12 @@
     "together_ai/Qwen/Qwen3.8-Flash": {
       "input": 0.15,
       "output": 0.47,
+      "source": "liteLLM"
+    },
+    "together_ai/Qwen/Qwen4-Max": {
+      "cacheRead": 0.07125000000000001,
+      "input": 1.4249999999999998,
+      "output": 4.2749999999999995,
       "source": "liteLLM"
     },
     "together_ai/reflection/Beam-1.0-501B-A23B": {
